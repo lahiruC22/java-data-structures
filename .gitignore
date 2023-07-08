@@ -3,3 +3,8 @@ ADTFraction/build/classes/ADTFractionApp.class
 ADTFraction/build/built-jar.properties
 ADTFraction/nbproject/private/private.properties
 ADTFraction/build/classes/ADTFraction.class
+noduparrayapp/build/built-jar.properties
+noduparrayapp/build/classes/NoDupArray.class
+*.class
+noduparrayapp/nbproject/private/private.properties
+noduparrayapp/nbproject/private/private.xml
